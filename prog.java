@@ -1,4 +1,4 @@
-public class Prog
+public class prog
 {
 public static void main(String args[])
 {
